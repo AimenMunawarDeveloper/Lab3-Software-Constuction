@@ -55,9 +55,6 @@ public class RulesOf6005 {
         if (implementationRequired) {
             return false;
         }
-        if (implementationRequired) {
-            return false;
-        }
         // if all conditions satisfied then we return true
         return false;
     }
